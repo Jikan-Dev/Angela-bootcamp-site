@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(184, 186, 181);
+}
+hr {
+    background-color: rgb(170, 166, 166);
+    border-style: none;
+    border-top: dotted;
+    height: 0px;
+    border-width: 5px;
+    width: 3%;
+}
+h1,h2,h3 {
+    color: cadetblue;
+}
